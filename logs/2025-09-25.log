@@ -1,0 +1,21 @@
+2025-09-25 12:52:05,405 - INFO    - dataset download forced
+2025-09-25 12:52:06,810 - INFO    - latest release id: 2025-09-22
+2025-09-25 12:52:06,811 - INFO    - downloading links for 2025-09-22-abstracts from https://api.semanticscholar.org/datasets/v1/release/2025-09-22/dataset/abstracts
+2025-09-25 12:52:09,604 - INFO    - got response 200
+2025-09-25 12:52:09,606 - INFO    - got 30 links for 2025-09-22-abstracts
+2025-09-25 12:52:09,608 - INFO    - downloading 2025-09-22/abstracts : 30 files.
+2025-09-25 12:52:09,609 - INFO    - Downloading abstracts000.gz
+2025-09-25 12:52:09,609 - INFO    - skipping /home/ananya-kamalapur/s2ag-corpus/data/datasets/2025-09-22/abstracts/abstracts000.gz
+2025-09-25 12:52:09,610 - INFO    - Downloading abstracts001.gz
+2025-09-25 12:52:09,610 - INFO    - skipping /home/ananya-kamalapur/s2ag-corpus/data/datasets/2025-09-22/abstracts/abstracts001.gz
+2025-09-25 12:52:09,610 - INFO    - Downloading abstracts002.gz
+2025-09-25 12:52:09,610 - INFO    - skipping /home/ananya-kamalapur/s2ag-corpus/data/datasets/2025-09-22/abstracts/abstracts002.gz
+2025-09-25 12:52:09,610 - INFO    - Downloading abstracts003.gz
+2025-09-25 12:52:09,610 - INFO    - skipping /home/ananya-kamalapur/s2ag-corpus/data/datasets/2025-09-22/abstracts/abstracts003.gz
+2025-09-25 12:52:09,610 - INFO    - Downloading abstracts004.gz
+2025-09-25 12:57:47,676 - INFO    - latest release id: 2025-09-22
+2025-09-25 12:57:47,677 - INFO    - applying diffs after original download 2025-09-22
+2025-09-25 12:57:47,678 - INFO    - diffs are up to date
+2025-09-25 18:07:34,006 - INFO    - latest release id: 2025-09-22
+2025-09-25 18:07:34,008 - INFO    - applying diffs after original download 2025-09-22
+2025-09-25 18:07:34,008 - INFO    - diffs are up to date

@@ -1,0 +1,23 @@
+2025-10-10 01:25:54,527 - INFO    - latest release id: 2025-09-30
+2025-10-10 01:27:37,543 - INFO    - latest release id: 2025-09-30
+2025-10-10 01:27:37,544 - INFO    - applying diffs after original download dummy_release
+2025-10-10 01:27:37,544 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for abstracts
+2025-10-10 10:07:53,030 - INFO    - latest release id: 2025-09-30
+2025-10-10 10:07:53,065 - INFO    - applying diffs after original download dummy_release
+2025-10-10 10:07:53,065 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for abstracts
+2025-10-10 10:11:59,043 - INFO    - latest release id: 2025-09-30
+2025-10-10 10:11:59,045 - INFO    - applying diffs after original download dummy_release
+2025-10-10 10:11:59,045 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for abstracts
+2025-10-10 10:11:59,045 - WARNING - Skipping diff_links: /diffs endpoint not available
+2025-10-10 10:11:59,045 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for authors
+2025-10-10 10:11:59,045 - WARNING - Skipping diff_links: /diffs endpoint not available
+2025-10-10 10:11:59,046 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for citations
+2025-10-10 10:11:59,046 - WARNING - Skipping diff_links: /diffs endpoint not available
+2025-10-10 10:11:59,046 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for papers
+2025-10-10 10:11:59,046 - WARNING - Skipping diff_links: /diffs endpoint not available
+2025-10-10 10:11:59,046 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for paper-ids
+2025-10-10 10:11:59,046 - WARNING - Skipping diff_links: /diffs endpoint not available
+2025-10-10 10:11:59,046 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for publication-venues
+2025-10-10 10:11:59,046 - WARNING - Skipping diff_links: /diffs endpoint not available
+2025-10-10 10:11:59,047 - INFO    - downloading and applying diffs from dummy_release to 2025-09-30 for tldrs
+2025-10-10 10:11:59,047 - WARNING - Skipping diff_links: /diffs endpoint not available
